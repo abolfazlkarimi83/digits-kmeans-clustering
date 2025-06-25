@@ -116,7 +116,7 @@ pip install numpy matplotlib seaborn scikit-learn scipy
 👋 My name is **Abolfazl Karimi**. I am a professional AI programmer specializing in developing real-world machine learning and deep learning projects. 
 📫 Contact me via Email: karimiabolfazl466@gmail.com  
 📱 Telegram: [@Abolfazlk83](https://t.me/Abolfazlk83)   
-🌐 LinkedIn: ***  
+🌐 LinkedIn: Coming soon
 🐙 GitHub: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
 
 ---
@@ -124,5 +124,5 @@ pip install numpy matplotlib seaborn scikit-learn scipy
 👋 من **ابوالفضل کریمی** هستم، برنامه‌نویس حرفه‌ای هوش مصنوعی با تخصص در توسعه پروژه‌های عملی یادگیری ماشین و یادگیری عمیق.  
 📫 ایمیل: karimiabolfazl466@gmail.com  
 📱 تلگرام: [@Abolfazlk83](https://t.me/Abolfazlk83)  
-🌐 لینکدین: *** 
+ 🌐 لینکدین: در حال ساخت
 🐙 گیت‌هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
