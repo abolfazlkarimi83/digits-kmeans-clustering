@@ -46,22 +46,60 @@ This project uses the K-Means algorithm to cluster grayscale images of handwritt
 6. Use Elbow method to determine optimal number of clusters (k)
 
 ---
- 📌نمونه تصاویر دیتاست | Sample Digits from Dataset
 
+⚙️ تکنولوژی‌های استفاده‌شده | Technologies Used
+فارسی:
 
-![Scatter plot of Iris data](sample_digits.png)
+در این پروژه از تکنولوژی‌ها و کتابخانه‌های زیر استفاده شده است:
+
+Python 3.11 (یا نسخه مشابه)
+
+NumPy – برای محاسبات عددی
+
+Matplotlib – برای رسم نمودارها و تصاویر
+
+Seaborn – برای رسم ماتریس درهم‌ریختگی
+
+Scikit-learn – برای بارگذاری دیتاست و اجرای الگوریتم KMeans
+
+SciPy – برای استفاده از تابع mode جهت تطبیق برچسب‌ها
+
+English:
+
+The following technologies and libraries were used in this project:
+
+Python 3.11 (or similar version)
+
+NumPy – For numerical computations
+
+Matplotlib – For plotting charts and digit images
+
+Seaborn – For confusion matrix visualization
+
+Scikit-learn – For loading dataset and running KMeans algorithm
+
+SciPy – For using mode() function to align cluster labels
+
 ---
 
-📌 ماتریس درهم‌ریختگی | Confusion Matrix (KMeans Clustering)
+## 🖼️ نتایج تصویری | Visual Results
 
+### 📌 نمونه تصاویر دیتاست | Sample Digits from Dataset
 
-![Scatter plot of Iris data](Kmeans_confusion_matrix.png)
+![Sample Digits from Dataset](sample_digits.png)
+
 ---
 
-📌 نمودار Elbow | Elbow Method Chart
+### 📌 ماتریس درهم‌ریختگی | Confusion Matrix (KMeans Clustering)
 
+![Confusion Matrix](Kmeans_confusion_matrix.png)
 
-![Scatter plot of Iris data](elbow_method.png)
+---
+
+### 📌 نمودار Elbow | Elbow Method Chart
+
+![Elbow Method](elbow_method.png)
+
 ---
 
 ## 💻 اجرای کد | How to Run
@@ -70,6 +108,7 @@ This project uses the K-Means algorithm to cluster grayscale images of handwritt
 
 ```bash
 pip install numpy matplotlib seaborn scikit-learn scipy
+
 
 ---
 ## About Me | درباره من
