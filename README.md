@@ -108,7 +108,7 @@ SciPy – For using mode() function to align cluster labels
 
 ```bash
 pip install numpy matplotlib seaborn scikit-learn scipy
-
+```
 
 ---
 ## About Me | درباره من
