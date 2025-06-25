@@ -125,5 +125,4 @@ pip install numpy matplotlib seaborn scikit-learn scipy
 📫 ایمیل: karimiabolfazl466@gmail.com  
 📱 تلگرام: [@Abolfazlk83](https://t.me/Abolfazlk83)  
  🌐 لینکدین: در حال ساخت
- 
-🐙 گیت‌هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
+ 🐙 گیت هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
