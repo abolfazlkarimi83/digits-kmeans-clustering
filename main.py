@@ -1,6 +1,6 @@
 """
 Title: Iris Dataset Clustering with KMeans
-Description: Clustering the Iris dataset using KMeans algorithm and comparing it with true labels.
+Description: Clustering the Digits dataset using KMeans algorithm and comparing it with true labels.
 Author: Abolfazl Karimi
 GitHub: https://github.com/abolfazlkarimi83
 License: MIT
