@@ -1,9 +1,9 @@
-# 📌 پروژه: خوشه‌بندی ارقام دست‌نویس با K-Means  
+#  پروژه: خوشه‌بندی ارقام دست‌نویس با K-Means  
 # 📌 Project: Handwritten Digits Clustering with K-Means
 
 ---
 
-## 📝 توضیح کلی | Description
+##  توضیح کلی | Description
 
 این پروژه از الگوریتم K-Means برای خوشه‌بندی تصاویر سیاه‌وسفید ارقام دست‌نویس استفاده می‌کند. هدف این است که داده‌ها بدون داشتن برچسب‌های واقعی، به‌درستی خوشه‌بندی شوند و سپس دقت آن با برچسب‌های اصلی سنجیده شود.
 
@@ -11,7 +11,7 @@ This project uses the K-Means algorithm to cluster grayscale images of handwritt
 
 ---
 
-## 🧾 دیتاست | Dataset
+##  دیتاست | Dataset
 
 - دیتاست `Digits` از مجموعه `sklearn.datasets` گرفته شده.
 - شامل ۱۷۹۷ تصویر ۸×۸ از ارقام ۰ تا ۹.
@@ -25,7 +25,7 @@ This project uses the K-Means algorithm to cluster grayscale images of handwritt
 
 ---
 
-## 🔁 مراحل انجام پروژه | Project Steps
+## مراحل انجام پروژه | Project Steps
 
 **فارسی:**
 
@@ -47,7 +47,7 @@ This project uses the K-Means algorithm to cluster grayscale images of handwritt
 
 ---
 
-⚙️ تکنولوژی‌های استفاده‌شده | Technologies Used
+ تکنولوژی‌های استفاده‌شده | Technologies Used
 فارسی:
 
 در این پروژه از تکنولوژی‌ها و کتابخانه‌های زیر استفاده شده است:
@@ -82,27 +82,27 @@ SciPy – For using mode() function to align cluster labels
 
 ---
 
-## 🖼️ نتایج تصویری | Visual Results
+##  نتایج تصویری | Visual Results
 
-### 📌 نمونه تصاویر دیتاست | Sample Digits from Dataset
+###  نمونه تصاویر دیتاست | Sample Digits from Dataset
 
 ![Sample Digits from Dataset](sample_digits.png)
 
 ---
 
-### 📌 ماتریس درهم‌ریختگی | Confusion Matrix (KMeans Clustering)
+###  ماتریس درهم‌ریختگی | Confusion Matrix (KMeans Clustering)
 
 ![Confusion Matrix](Kmeans_confusion_matrix.png)
 
 ---
 
-### 📌 نمودار Elbow | Elbow Method Chart
+###  نمودار Elbow | Elbow Method Chart
 
 ![Elbow Method](elbow_method.png)
 
 ---
 
-## 💻 اجرای کد | How to Run
+##  اجرای کد | How to Run
 
 **پیش‌نیازها | Requirements**:
 
